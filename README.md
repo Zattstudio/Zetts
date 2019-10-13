@@ -4,7 +4,7 @@ A minimal, self-contained application for studying vocab or two-column data
 # Sets
 Sets are stored in the **sets** folder. Files are saved with the extension **.set** but **.csv** should also work just fine.
 Set files are standard csv files with the first row containing metadata. The first row should look like this:
-"<Set name>","<Date>","<Author>"
+"{Set name}","{Date}","{Author}"
 
 # Modes
 The application has two modes. The user can choose between the modes "Flashcards" and "Learn".
