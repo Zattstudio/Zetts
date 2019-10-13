@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="200mm" height="200mm" enable-background="new" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1819" x1="32.909" x2="38.156" y1="143.5" y2="260" gradientTransform="translate(.35649 .30232)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#b3b3b3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-4.4494 -89.881)">
+  <g stroke-miterlimit="15" stroke-width="0">
+   <path d="m184.65 191.55c0 13.337-10.043 25.253-16.79 36.555-6.6455 11.131-9.9212 21.692-19.705 28.976-13.412 9.9842-26.033 15.003-44.038 15.003-25.393 0-45.817-13.532-60.578-31.895-11.093-13.8-19.956-29.554-19.956-48.639 0-9.6782 3.6394-18.747 6.3962-27.641 4.8462-15.635 11.615-29.802 24.362-39.142 13.326-9.7645 31.99-13.751 49.776-13.751 23.034 0 44.254 5.6655 58.932 21.167 13.665 14.432 21.602 37.923 21.602 59.367z" fill="#8a0" opacity=".96" style="paint-order:normal"/>
+   <path transform="matrix(.98337 -.18162 .31218 .95002 0 0)" d="m16.892 143.98 56.591 4.2998c3.665 0.27847 6.522 3.0174 6.7017 6.7017l4.6742 95.87c0.17963 3.6843-4.3479 9.7886-6.4397 9.796l-64.759 0.22719c-3.7144 0.013-6.7017-2.9889-6.7017-6.7017v-99.191c0-3.7127 6.2681-11.28 9.9331-11.002z" fill="url(#linearGradient1819)" style="paint-order:normal"/>
+   <path transform="matrix(.98337 -.18162 .31218 .95002 0 0)" d="m18.33 143.78h59.823c3.7127 0 6.7017 2.9889 6.7017 6.7016v99.191c0 3.7127-2.9889 6.7017-6.7017 6.7017h-59.823c-3.7127 0-6.7017-2.9889-6.7017-6.7017v-99.191c0-3.7127 2.9889-6.7016 6.7017-6.7016z" enable-background="new" fill="#fff" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(.45489 -.08036 .128 .43228 -107.9 42.789)" fill="#b3b3b3" aria-label="Z">
+   <path d="m407.62 321.5h-73.152v14.784h53.952l-59.904 103.1v14.208h76.992l1.92-15.168h-59.328l59.52-102.72z" fill="#b3b3b3"/>
+  </g>
+ </g>
+</svg>
