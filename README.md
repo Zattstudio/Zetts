@@ -1,6 +1,8 @@
 # Zetts
 A minimal, self-contained application for studying vocab or two-column data
 
+![alt text](assets/gfx/logo.svg)
+
 # Sets
 Sets are stored in the **sets** folder. Files are saved with the extension **.set** but **.csv** should also work just fine.
 Set files are standard csv files with the first row containing metadata. The first row should look like this:
